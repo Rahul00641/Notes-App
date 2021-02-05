@@ -8,5 +8,5 @@ Technologies Used:
 Commands :
 1. Add Note - node main.js add --title="TitleName" --body="BodyOfNote"
 2. Remove Note - node main.js remove --title="TitleName"
-3. List All Notes - node main.js remove
+3. List All Notes - node main.js list
 4. Read a Note - node main.js read --title="TitleName"
